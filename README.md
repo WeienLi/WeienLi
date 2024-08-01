@@ -1,8 +1,9 @@
 # Barry
 
-## Hi there 👋 
+## Hi you found me 👋 
 
-My name is Barry and I will be starting my Masters @MIT. My Github repo will contain all the exciting projects I have worked on. 
+My name is Barry I did my Bachelors @McGIll and I will be starting my Masters @MIT.  
+My Github repo will contain all the exciting projects I have worked on. 
 
 - 🔭 I’m currently working on RAG Agent
 - 🌱 I’m currently learning Large Language Models and Quant
