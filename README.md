@@ -12,6 +12,5 @@ My name is Barry and I will be starting my Masters @MIT. My Github repo will con
 -->
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=StevenYuan666&hide_rank=false&line_height=20&count_private=true&theme=swift&show_icons=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=StevenYuan666&layout=compact&theme=swift">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WeienLi&layout=compact&theme=swift">
 </p>
