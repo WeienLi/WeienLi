@@ -6,7 +6,7 @@ My name is Barry I did my Bachelors @McGIll and I will be starting my Masters @M
 My Github repo will contain all the exciting projects I have worked on. 
 
 - 🔭 I’m currently working on RAG Agent
-- 🌱 I’m currently learning Large Language Models and Quant
+- 🌱 I’m currently learning CUDA Programming
 - 💬 Feel free to reach out to me for any inquries about my project
 - 📫 How to reach me: You can reach out to me by email barryl09 at MIT dot edu
 - 😄 Pronouns: He/Him/His
