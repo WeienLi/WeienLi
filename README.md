@@ -6,7 +6,7 @@ My name is Barry I did my Bachelors @McGIll and I did my Masters @MIT.
 My Github repo will contain all the exciting projects I have worked on. 
 
 - 🔭 I’m currently working on MultiModal Information Retrieval
-- 🌱 I’m currently exploring ideaology for context compression
+- 🌱 I’m currently exploring Evaluation Mechanism
 - 💬 Feel free to reach out to me for any inquries about my project
 - 📫 How to reach me: You can reach out to me by email barryl09 at MIT dot edu
 - 😄 Pronouns: He/Him/His
